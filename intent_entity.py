@@ -8,8 +8,6 @@ from dotenv import load_dotenv
 
 # Load .env vars
 load_dotenv()
-
-
 # Init Groq client
 client = Groq()
 
